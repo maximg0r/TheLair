@@ -1,4 +1,4 @@
-# TheLair
+# The Lair
 A Unity-based game inspired by the genres of Horror and Tower-Defense.
 
 ![Story Screen](https://user-images.githubusercontent.com/21267455/69510595-95c51700-0f0b-11ea-9841-bc0665af965f.png)
